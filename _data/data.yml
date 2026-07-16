@@ -214,6 +214,14 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: "Frontier Space-Time Algorithms Using Only Full Memory"
+        # link: "#"
+        authors: "Petr Chmel, Aditi Dudeja, Michal Koucký, Ian Mertz, and <b>Ninad Rajgopal</b>"
+        conference: "Invited to Special Issue of ACM ToCT (upcoming) <br /> CCC 2026."
+        allLinks: 
+          -  name: "ArXiv"
+             url: "https://arxiv.org/abs/2602.21089"
+    
       - title: "Distribution-free Proofs of Proximity."
         # link: "#"
         authors: "Hugo Aaronson, Tom Gur, <b>Ninad Rajgopal</b>, and Ron Rothblum"
