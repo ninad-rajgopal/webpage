@@ -217,7 +217,7 @@ publications:
       - title: "Frontier Space-Time Algorithms Using Only Full Memory"
         # link: "#"
         authors: "Petr Chmel, Aditi Dudeja, Michal Koucký, Ian Mertz, and <b>Ninad Rajgopal</b>"
-        conference: "Invited to Special Issue of ACM ToCT (upcoming) <br /> CCC 2026."
+        conference: "Invited to the special issue of ACM ToCT (upcoming) <br /> CCC 2026."
         allLinks: 
           -  name: "ArXiv"
              url: "https://arxiv.org/abs/2602.21089"
